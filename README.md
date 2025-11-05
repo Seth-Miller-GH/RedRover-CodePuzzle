@@ -8,7 +8,7 @@ The directory `SethMiller-TypeScript` contains a small TypeScript application.
 
 This application uses some very basic bootstrapping for test execution and TypeScript handling, based on the examples provided by [Vitest](https://vitest.dev/guide/) and [TypeScript](https://www.typescriptlang.org/tsconfig/).
 
-To execute, use one of the following options:
+To execute, use one of the following options (after first running `npm ci`):
 
 * `npm run dev` - Simple execution of primary code to see the requested result
 * `npm run test` - A quick execution of a handful of tests
