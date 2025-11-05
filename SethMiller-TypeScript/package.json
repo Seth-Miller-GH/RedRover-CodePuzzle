@@ -1,0 +1,22 @@
+{
+  "name": "sethmiller-typescript",
+  "version": "1.0.0",
+  "description": "A simple typescript app solution to the Red Rover dev challenge.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx src/app.ts",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "build": "tsc -p tsconfig.json"
+  },
+  "keywords": [],
+  "author": "Seth Miller",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/node": "^24.10.0",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3",
+    "vitest": "^4.0.7"
+  }
+}
