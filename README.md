@@ -1,6 +1,8 @@
 # Seth Miller - Red Rover Code Puzzle
 
-This simple set of projects contains two different answers to the Red Rover developer code puzzle
+This simple set of projects contains two variations of an answer to the Red Rover developer code puzzle. 
+
+Each is essentially the same approach, just ported to a different language.
 
 ## TypeScript
 
